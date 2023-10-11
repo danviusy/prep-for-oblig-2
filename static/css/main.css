@@ -1,0 +1,30 @@
+
+.gray-background {
+    background-color: gray;
+}
+
+.frame {
+    background-color: white;
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    text-align: center;
+}
+
+.details {
+    color: gray;
+    font-size: 0.7em;
+}
+
+#author {
+    color: orangered;
+    font-weight: bold;
+}
+
+#photo {
+    font-weight: bold;
+}
